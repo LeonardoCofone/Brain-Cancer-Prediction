@@ -3,5 +3,5 @@ Deep Learning project for brain tumor prediction given an image of the brain.
 
 ## 🧡 Author
 
-**Leonardo Cofone**
+**Leonardo Cofone**  
 Machine Learning & Deep Learning Specialist
